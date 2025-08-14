@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['my_portfolio.onrender.com', 'www.snehaborban.codes.com', 'snehaborban.codes.com']
+ALLOWED_HOSTS = ['snehaborban-portfolio-ysup.onrender.com', 'www.snehaborban.codes.com', 'snehaborban.codes.com']
 
 
 # Application definition
